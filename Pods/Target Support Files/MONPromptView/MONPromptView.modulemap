@@ -1,0 +1,6 @@
+framework module MONPromptView {
+  umbrella header "MONPromptView-umbrella.h"
+
+  export *
+  module * { export * }
+}
